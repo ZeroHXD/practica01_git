@@ -7,7 +7,7 @@ public class Mecanicas : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        
+       //mi primer texto 
     }
 
     // Update is called once per frame
